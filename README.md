@@ -1,2 +1,3 @@
 # networkproject1
-twitters attitude on AI
+networkproject1 tweeters attitude on AI 
+need to import files as resource
